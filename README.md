@@ -8,4 +8,4 @@ This project was created for the purpose of revising how to use GitHub.  Specifi
 + How to make a first commit for a readme file
 + How to make a start with your code
 
-### Note because this was a test file for practice and revision only there are no other files in this repo apart from this README.md file ###
+### Note ### because this was a test file for practice and revision only there are no other files in this repo apart from this README.md file
